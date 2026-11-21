@@ -77,6 +77,7 @@
 
 ## JetWooBuilder
 
+- [Cart Dynamic Tags](https://github.com/Crocoblock/jet-woo-cart-dynamic-tags) - Exposes WooCommerce cart totals and item counts as Elementor dynamic tags.
 - [Category Custom Product Template](https://github.com/rtpHarry/jet-woo-builder-category-custom-product-template) - Assigns single-product templates by WooCommerce category, with priority when a product belongs to several categories.
 - [Custom Add to Cart Icons](https://github.com/UraraReika/jet-woo-builder-custom-add-to-cart-icon) - Adds custom icons to JetWooBuilder add-to-cart controls.
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
