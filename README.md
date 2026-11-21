@@ -89,6 +89,7 @@
 ## JetBooking and JetAppointment
 
 - [Adult and Child Slot Counts](https://github.com/MjHead/jet-appointments-adults-children-inputs) - Combines separate adult and child fields to calculate how many appointment slots to book.
+- [Pending Booking Expiration Guard](https://github.com/fellipesalazar/jetbooking-expiration-guard) - Releases dates held by expired pending bookings after checking the status of any linked WooCommerce order.
 - [Quantity Enabled for JetBooking](https://github.com/breakerh/quantity-enabled-for-jet-booking) - Lets customers book several units of a rental item in one booking.
 
 ## JetSearch
