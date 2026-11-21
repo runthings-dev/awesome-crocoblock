@@ -67,6 +67,7 @@
 - [Form Records Export and Import](https://github.com/DeBelserArne/jetformbuilder-export-import) - Transfers stored submissions between WordPress installations.
 - [Google Sheets for JetFormBuilder](https://github.com/Lonsdale201/google-sheet-for-jetformbuilder) - Appends submissions to a spreadsheet using a Google service account.
 - [Is Valid Inputs Field](https://github.com/Crocoblock/jfb-is-valid-inputs-field) - Lets a hidden field or conditional block reflect whether the form fields are valid.
+- [Media Storage for JetFormBuilder](https://github.com/Lonsdale201/media-storage-for-jetformbuilder) - Syncs files uploaded through forms to Dropbox, Google Drive, or Cloudflare R2.
 - [Update Field](https://github.com/Crocoblock/jet-form-builder-update-field) - Refreshes a field's value or choices when another field changes.
 
 ## JetWooBuilder
