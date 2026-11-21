@@ -62,6 +62,7 @@
 - [Attributes for Macros](https://github.com/Crocoblock/jfb-attributes-for-macros) - Adds attribute support to front-end field macros in JetFormBuilder 3 and newer.
 - [Check Query Action](https://github.com/Crocoblock/jet-form-builder-check-query-action) - Checks whether a JetEngine query returns results and makes matching items or their count available to form actions.
 - [Discord Notifications](https://github.com/Lonsdale201/discord-for-jetformbuilder) - Sends a configurable Discord message when a form is submitted.
+- [FluentBoards Tasks](https://github.com/Lonsdale201/fluentboards-for-jetformbuilder) - Creates a task in a selected FluentBoards board from form submissions.
 - [Form Records Export and Import](https://github.com/DeBelserArne/jetformbuilder-export-import) - Transfers stored submissions between WordPress installations.
 - [Google Sheets for JetFormBuilder](https://github.com/Lonsdale201/google-sheet-for-jetformbuilder) - Appends submissions to a spreadsheet using a Google service account.
 - [Is Valid Inputs Field](https://github.com/Crocoblock/jfb-is-valid-inputs-field) - Lets a hidden field or conditional block reflect whether the form fields are valid.
