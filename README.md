@@ -8,4 +8,5 @@
 
 ## JetEngine
 
+- [JetEngine Repeater Field Values](https://github.com/rtpHarry/jet-engine-repeater-values) - Exposes repeater values as Elementor dynamic tags for text, images, and galleries.
 - [Listing as Filter](https://github.com/Crocoblock/jet-engine-listing-as-filter) - Turns items in one listing into visual filters for another listing using JetSmartFilters.
