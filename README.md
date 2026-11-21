@@ -52,6 +52,7 @@
 - [Nested Listing Pagination Fix](https://github.com/rtpHarry/runthings-jetengine-nested-listing-pagination-fix) - Restores the outer listing's pagination when nested JetEngine queries overwrite it in JetSmartFilters Mixed mode.
 - [Post Type and Author Filters](https://github.com/MjHead/jet-smart-filters-post-type-and-author) - Filters listings by post type slug or author ID.
 - [Search by Post ID](https://github.com/MjHead/jet-smart-filters-search-by-id) - Lets visitors find a post by entering its numeric ID into a Search filter.
+- [Sticky Posts Fix for Elementor Pro](https://github.com/MjHead/jsf-epro-fix-sticky) - Preserves sticky posts when filters are applied to Elementor Pro listings.
 
 ## JetFormBuilder
 
