@@ -53,6 +53,7 @@
 - [Post Type and Author Filters](https://github.com/MjHead/jet-smart-filters-post-type-and-author) - Filters listings by post type slug or author ID.
 - [Search by Post ID](https://github.com/MjHead/jet-smart-filters-search-by-id) - Lets visitors find a post by entering its numeric ID into a Search filter.
 - [Search by Post Title](https://github.com/4Fedea/jet-smart-filters-search-by-title) - Adds exact or partial post title matching to the Search filter.
+- [Search by Taxonomy Term](https://github.com/developerjillur/jet-smart-filters-search-by-taxonomy-term) - Extends the Search filter to match terms from configured taxonomies.
 - [Sticky Posts Fix for Elementor Pro](https://github.com/MjHead/jsf-epro-fix-sticky) - Preserves sticky posts when filters are applied to Elementor Pro listings.
 
 ## JetFormBuilder
