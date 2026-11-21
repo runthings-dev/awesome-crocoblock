@@ -15,6 +15,7 @@
 
 - [Adjacent Posts Tools](https://github.com/Crocoblock/jet-engine-adjacent-posts-tags) - Adds next and previous post data to Elementor dynamic tags, JetEngine macros, and listing contexts.
 - [Alphabetical Listing Breaks](https://github.com/Crocoblock/jet-engine-break-listing-alphabetically) - Inserts letter headings into a listing that is already sorted alphabetically.
+- [Attachment Link Callback](https://github.com/MjHead/jet-engine-attachment-link-callback) - Turns an attachment ID into a file link in the Dynamic Field widget.
 - [Calculated Callback](https://github.com/MjHead/jet-engine-calculated-callback) - Adds arithmetic and developer-defined calculation callbacks to the Dynamic Field widget.
 - [Calico JetEngine Calendar](https://github.com/CalicoDesignCo/calico-jetengine-calendar) - Displays up to four post type feeds in an Elementor calendar with separate listing templates and date fields.
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
