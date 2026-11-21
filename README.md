@@ -59,6 +59,7 @@
 
 ## JetFormBuilder
 
+- [AI Actions for JetFormBuilder](https://github.com/Lonsdale201/ai-for-jetformbuilder) - Adds OpenAI actions and submission events for classifying form data and branching on the result.
 - [Attributes for Macros](https://github.com/Crocoblock/jfb-attributes-for-macros) - Adds attribute support to front-end field macros in JetFormBuilder 3 and newer.
 - [Brevo Newsletter Action](https://github.com/nextab/jfb-brevo-add-on) - Subscribes users to a Brevo newsletter through a server-side double opt-in workflow.
 - [Check Query Action](https://github.com/Crocoblock/jet-form-builder-check-query-action) - Checks whether a JetEngine query returns results and makes matching items or their count available to form actions.
