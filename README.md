@@ -108,3 +108,4 @@
 ## JetTabs
 
 - [Hide Empty Items](https://github.com/MjHead/jet-hide-empty-items) - Hides empty JetTabs panels, including panels containing a JetEngine listing with no results.
+- [Keep Active Tab](https://github.com/MjHead/jet-tabs-keep-active) - Restores the selected JetTabs tab after a page reload.
