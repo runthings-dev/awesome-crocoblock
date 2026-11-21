@@ -50,6 +50,7 @@
 - [Apply Button Scroll to Top](https://github.com/runthings-dev/runthings-jsf-apply-button-scroll-to-top) - Adds configurable scrolling to the Elementor Apply Button so visitors can return to the filtered results.
 - [Etch Query Loop Bridge](https://github.com/branislavbudzak/jsf-query-builder-etch-bridge) - Connects the Etch Query Loop block to JetSmartFilters and JetEngine Query Builder.
 - [Nested Listing Pagination Fix](https://github.com/rtpHarry/runthings-jetengine-nested-listing-pagination-fix) - Restores the outer listing's pagination when nested JetEngine queries overwrite it in JetSmartFilters Mixed mode.
+- [Post Type and Author Filters](https://github.com/MjHead/jet-smart-filters-post-type-and-author) - Filters listings by post type slug or author ID.
 
 ## JetFormBuilder
 
