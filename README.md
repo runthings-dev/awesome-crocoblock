@@ -95,6 +95,7 @@
 
 ## JetPopup
 
+- [Trigger Popup from Options](https://github.com/MjHead/jet-popup-trigger-from-options) - Uses a switch or another boolean field on a JetEngine options page to control whether a popup opens.
 - [Twig Dynamic Popup](https://github.com/Crocoblock/jet-engine-twig-dynamic-popup) - Adds popups with dynamic listing data to Timber and Twig listings.
 
 ## JetSearch
