@@ -25,6 +25,7 @@
 - [Custom User Meta Storage](https://github.com/MjHead/jet-engine-custom-user-meta-storage) - Stores selected user meta fields in a custom table through JetEngine's storage feature.
 - [Data Stores Cleanup](https://github.com/Crocoblock/jet-engine-data-stores-clear-posts-on-delete) - Removes trashed or deleted posts from JetEngine user-meta data stores.
 - [Dynamic Field Widget Add-on](https://github.com/Semonxue/JetEngine-Dynamic-Field-Widget-Addon) - Adds callbacks for image galleries, video lists, and values in nested objects.
+- [Dynamic Relation Injector](https://github.com/97NovaClaw/JetEngine-Dynamic-Relation-Injector) - Adds relation selectors to custom content type edit screens so editors can select related records before the initial save.
 - [Elementor Repeater Accordions](https://github.com/ShariqKhan2012/Elementor-Repeater-Accordions) - Builds accordion panels from items in a JetEngine repeater field.
 - [Elementor Repeater Gallery](https://github.com/ShariqKhan2012/Elementor-Repeater-Gallery) - Builds an Elementor gallery from items in a JetEngine repeater field.
 - [Gallery Item Fetcher](https://github.com/hypegg/jetengine-gallery-item-fetcher) - Adds a shortcode to display an individual image from a gallery field.
