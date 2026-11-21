@@ -15,6 +15,7 @@
 
 - [Adjacent Posts Tools](https://github.com/Crocoblock/jet-engine-adjacent-posts-tags) - Adds next and previous post data to Elementor dynamic tags, JetEngine macros, and listing contexts.
 - [Alphabetical Listing Breaks](https://github.com/Crocoblock/jet-engine-break-listing-alphabetically) - Inserts letter headings into a listing that is already sorted alphabetically.
+- [Calculated Callback](https://github.com/MjHead/jet-engine-calculated-callback) - Adds arithmetic and developer-defined calculation callbacks to the Dynamic Field widget.
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
 - [Components Shortcode](https://github.com/Crocoblock/jet-engine-components-shortcode) - Renders a JetEngine component wherever WordPress shortcodes are supported.
 - [Data Stores Cleanup](https://github.com/Crocoblock/jet-engine-data-stores-clear-posts-on-delete) - Removes trashed or deleted posts from JetEngine user-meta data stores.
