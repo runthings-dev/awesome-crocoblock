@@ -19,6 +19,7 @@
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
 - [Components Shortcode](https://github.com/Crocoblock/jet-engine-components-shortcode) - Renders a JetEngine component wherever WordPress shortcodes are supported.
 - [Custom Contexts](https://github.com/MjHead/jet-engine-custom-contexts) - Lets a dynamic widget or tag use a term from the current post as its context.
+- [Custom User Meta Storage](https://github.com/MjHead/jet-engine-custom-user-meta-storage) - Stores selected user meta fields in a custom table through JetEngine's storage feature.
 - [Data Stores Cleanup](https://github.com/Crocoblock/jet-engine-data-stores-clear-posts-on-delete) - Removes trashed or deleted posts from JetEngine user-meta data stores.
 - [JetEngine Repeater Field Values](https://github.com/rtpHarry/jet-engine-repeater-values) - Exposes repeater values as Elementor dynamic tags for text, images, and galleries.
 - [Listing as Filter](https://github.com/Crocoblock/jet-engine-listing-as-filter) - Turns items in one listing into visual filters for another listing using JetSmartFilters.
