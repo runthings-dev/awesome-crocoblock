@@ -25,6 +25,7 @@
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
 - [Compact Number Format Callback](https://github.com/mangsinaga/jetengine-number-format-callback) - Formats large numbers with suffixes such as K and M in the Dynamic Field widget.
 - [Components Shortcode](https://github.com/Crocoblock/jet-engine-components-shortcode) - Renders a JetEngine component wherever WordPress shortcodes are supported.
+- [CSV to CCT Importer](https://github.com/fico-sanchez/Plugin-for-JetEngine-CSV-to-CCT-Importer) - Imports CSV rows into custom content types with field mapping and support for updating existing items.
 - [Custom Contexts](https://github.com/MjHead/jet-engine-custom-contexts) - Lets a dynamic widget or tag use a term from the current post as its context.
 - [Custom User Meta Storage](https://github.com/MjHead/jet-engine-custom-user-meta-storage) - Stores selected user meta fields in a custom table through JetEngine's storage feature.
 - [Data Stores Cleanup](https://github.com/Crocoblock/jet-engine-data-stores-clear-posts-on-delete) - Removes trashed or deleted posts from JetEngine user-meta data stores.
