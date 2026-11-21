@@ -32,6 +32,7 @@
 - [Elementor Repeater Accordions](https://github.com/ShariqKhan2012/Elementor-Repeater-Accordions) - Builds accordion panels from items in a JetEngine repeater field.
 - [Elementor Repeater Gallery](https://github.com/ShariqKhan2012/Elementor-Repeater-Gallery) - Builds an Elementor gallery from items in a JetEngine repeater field.
 - [Gallery Item Fetcher](https://github.com/hypegg/jetengine-gallery-item-fetcher) - Adds a shortcode to display an individual image from a gallery field.
+- [JetEngine Color Swatches](https://github.com/marrisonlab/jetengine-variations) - Adds an Elementor widget for WooCommerce variation swatches that works in a Listing Grid.
 - [JetEngine Repeater Field Values](https://github.com/rtpHarry/jet-engine-repeater-values) - Exposes repeater values as Elementor dynamic tags for text, images, and galleries.
 - [Listing as Filter](https://github.com/Crocoblock/jet-engine-listing-as-filter) - Turns items in one listing into visual filters for another listing using JetSmartFilters.
 - [Listing Grid Empty Space](https://github.com/MjHead/jet-engine-listing-fill-empty-space) - Fills unused grid slots with placeholders or expands items to cover empty columns.
