@@ -47,6 +47,7 @@
 - [SQL Query Paginator](https://github.com/naturalweb-business/jet-sql-paginator) - Paginates custom SQL queries in the database to avoid loading all matching rows into PHP.
 - [Sub Query](https://github.com/Crocoblock/jet-engine-sub-query) - Lets a nested listing use an array from its parent item, such as a property returned by a REST API.
 - [Trim String Callback](https://github.com/Crocoblock/jet-engine-trim-callback) - Shortens text returned by a Dynamic Field.
+- [WCS JetEngine Skeleton Loader](https://github.com/WebCreative-Studio/wcs-jetengine-skeleton-loader) - Replaces the loading spinner with placeholder cards while an Elementor Listing Grid loads.
 - [WooCommerce Purchase Visibility](https://github.com/rtpHarry/jet-engine-dynamic-visibility-woo-user-purchased) - Shows or hides content based on whether the current user bought a specified WooCommerce product.
 
 ## JetSmartFilters
