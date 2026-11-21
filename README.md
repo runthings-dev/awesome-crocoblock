@@ -17,6 +17,7 @@
 
 ## JetSmartFilters
 
+- [Apply Button Scroll to Top](https://github.com/runthings-dev/runthings-jsf-apply-button-scroll-to-top) - Adds configurable scrolling to the Elementor Apply Button so visitors can return to the filtered results.
 - [Etch Query Loop Bridge](https://github.com/branislavbudzak/jsf-query-builder-etch-bridge) - Connects the Etch Query Loop block to JetSmartFilters and JetEngine Query Builder.
 
 ## JetFormBuilder
