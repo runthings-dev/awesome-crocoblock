@@ -8,6 +8,7 @@
 - [JetSmartFilters](#jetsmartfilters)
 - [JetFormBuilder](#jetformbuilder)
 - [JetWooBuilder](#jetwoobuilder)
+- [JetBooking and JetAppointment](#jetbooking-and-jetappointment)
 
 ## JetEngine
 
@@ -28,3 +29,7 @@
 ## JetWooBuilder
 
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
+
+## JetBooking and JetAppointment
+
+- [Quantity Enabled for JetBooking](https://github.com/breakerh/quantity-enabled-for-jet-booking) - Lets customers book several units of a rental item in one booking.
