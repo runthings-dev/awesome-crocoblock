@@ -20,6 +20,7 @@
 - [Attachment Link Callback](https://github.com/MjHead/jet-engine-attachment-link-callback) - Turns an attachment ID into a file link in the Dynamic Field widget.
 - [Calculated Callback](https://github.com/MjHead/jet-engine-calculated-callback) - Adds arithmetic and developer-defined calculation callbacks to the Dynamic Field widget.
 - [Calico JetEngine Calendar](https://github.com/CalicoDesignCo/calico-jetengine-calendar) - Displays up to four post type feeds in an Elementor calendar with separate listing templates and date fields.
+- [CartFlows Variation Swatches](https://github.com/Crocoblock/jet-engine-cart-flows-swatches) - Displays CartFlows variation swatches inside a listing through the Woo Data widget.
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
 - [Compact Number Format Callback](https://github.com/mangsinaga/jetengine-number-format-callback) - Formats large numbers with suffixes such as K and M in the Dynamic Field widget.
 - [Components Shortcode](https://github.com/Crocoblock/jet-engine-components-shortcode) - Renders a JetEngine component wherever WordPress shortcodes are supported.
