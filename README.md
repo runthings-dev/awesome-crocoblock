@@ -80,6 +80,7 @@
 - [Category Custom Product Template](https://github.com/rtpHarry/jet-woo-builder-category-custom-product-template) - Assigns single-product templates by WooCommerce category, with priority when a product belongs to several categories.
 - [Custom Add to Cart Icons](https://github.com/UraraReika/jet-woo-builder-custom-add-to-cart-icon) - Adds custom icons to JetWooBuilder add-to-cart controls.
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
+- [Custom Quantity Selectors](https://github.com/UraraReika/jet-woo-builder-custom-quantity-selectors) - Adds alternative quantity controls to JetWooBuilder product and cart widgets.
 
 ## JetBooking and JetAppointment
 
