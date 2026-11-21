@@ -11,6 +11,7 @@
 - [JetBooking and JetAppointment](#jetbooking-and-jetappointment)
 - [JetPopup](#jetpopup)
 - [JetSearch](#jetsearch)
+- [JetTabs](#jettabs)
 
 ## JetEngine
 
@@ -103,3 +104,7 @@
 
 - [Related Search Results](https://github.com/Crocoblock/jet-search-related-results) - Includes content linked through JetEngine relations in JetSearch AJAX results.
 - [Search Custom Product Attributes](https://github.com/Crocoblock/jet-search-custom-attributes) - Makes manually defined WooCommerce product attributes available to the JetSearch AJAX Search widget.
+
+## JetTabs
+
+- [Hide Empty Items](https://github.com/MjHead/jet-hide-empty-items) - Hides empty JetTabs panels, including panels containing a JetEngine listing with no results.
