@@ -77,6 +77,7 @@
 
 ## JetWooBuilder
 
+- [Category Custom Product Template](https://github.com/rtpHarry/jet-woo-builder-category-custom-product-template) - Assigns single-product templates by WooCommerce category, with priority when a product belongs to several categories.
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
 
 ## JetBooking and JetAppointment
