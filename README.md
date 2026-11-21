@@ -71,6 +71,7 @@
 - [MarkupMarkdown Integration](https://github.com/muneebgawri/jetformbuilder-markupmarkdown-integration) - Replaces the form's TinyMCE editor with a Markdown editor.
 - [Media Storage for JetFormBuilder](https://github.com/Lonsdale201/media-storage-for-jetformbuilder) - Syncs files uploaded through forms to Dropbox, Google Drive, or Cloudflare R2.
 - [Update Field](https://github.com/Crocoblock/jet-form-builder-update-field) - Refreshes a field's value or choices when another field changes.
+- [ViaCEP Address Autofill](https://github.com/MiguelFaria009/autocep-jetbuilder) - Fills Brazilian address fields after a visitor enters their postal code.
 - [WebP Upload](https://github.com/marrisonlab/JFBWU) - Converts JPEG and PNG images to WebP during form uploads.
 
 ## JetWooBuilder
