@@ -27,6 +27,7 @@
 - [Monthly Listing Breaks](https://github.com/MjHead/jet-engine-break-listing-by-months) - Inserts month headings based on the publication date or a date field in a sorted posts query.
 - [Query Builder for Elementor Pro Loop](https://github.com/MjHead/jet-engine-query-builder-for-epro-loop) - Uses JetEngine posts queries and post-based relations queries as the source for an Elementor Pro Loop Grid.
 - [Query Column Sum](https://github.com/MjHead/jet-engine-query-count) - Adds a macro that sums values from a selected column across query results.
+- [Related Post Thumbnails and Titles](https://github.com/MjHead/jet-engine-thumbnail-title-from-related-callback) - Displays related post thumbnails and titles through a single Dynamic Field callback.
 - [Relations Extended](https://github.com/Crocoblock/jet-engine-relation-hierarchy) - Adds grandparent and grandchild relation queries for filtering listings with JetSmartFilters.
 - [WooCommerce Purchase Visibility](https://github.com/rtpHarry/jet-engine-dynamic-visibility-woo-user-purchased) - Shows or hides content based on whether the current user bought a specified WooCommerce product.
 
