@@ -7,6 +7,7 @@
 - [JetEngine](#jetengine)
 - [JetSmartFilters](#jetsmartfilters)
 - [JetFormBuilder](#jetformbuilder)
+- [JetWooBuilder](#jetwoobuilder)
 
 ## JetEngine
 
@@ -21,3 +22,7 @@
 ## JetFormBuilder
 
 - [Update Field](https://github.com/Crocoblock/jet-form-builder-update-field) - Refreshes a field's value or choices when another field changes.
+
+## JetWooBuilder
+
+- [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
