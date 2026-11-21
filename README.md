@@ -81,6 +81,7 @@
 - [Custom Add to Cart Icons](https://github.com/UraraReika/jet-woo-builder-custom-add-to-cart-icon) - Adds custom icons to JetWooBuilder add-to-cart controls.
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
 - [Custom Quantity Selectors](https://github.com/UraraReika/jet-woo-builder-custom-quantity-selectors) - Adds alternative quantity controls to JetWooBuilder product and cart widgets.
+- [Products Grid Custom Fields](https://github.com/UraraReika/jet-woo-builder-products-grid-custom-fields) - Adds custom field compatibility to the Products Grid widget through a child-theme template override.
 
 ## JetBooking and JetAppointment
 
