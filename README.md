@@ -102,3 +102,4 @@
 ## JetSearch
 
 - [Related Search Results](https://github.com/Crocoblock/jet-search-related-results) - Includes content linked through JetEngine relations in JetSearch AJAX results.
+- [Search Custom Product Attributes](https://github.com/Crocoblock/jet-search-custom-attributes) - Makes manually defined WooCommerce product attributes available to the JetSearch AJAX Search widget.
