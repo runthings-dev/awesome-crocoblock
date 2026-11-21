@@ -85,6 +85,7 @@
 - [Custom Product Badges](https://github.com/UraraReika/jet-woo-builder-custom-product-badges) - Creates and styles product badges for JetWooBuilder widgets.
 - [Custom Quantity Selectors](https://github.com/UraraReika/jet-woo-builder-custom-quantity-selectors) - Adds alternative quantity controls to JetWooBuilder product and cart widgets.
 - [Products Grid Custom Fields](https://github.com/UraraReika/jet-woo-builder-products-grid-custom-fields) - Adds custom field compatibility to the Products Grid widget through a child-theme template override.
+- [Products Grid Load More](https://github.com/UraraReika/jwb-products-grid-load-more) - Adds an AJAX Load More control to the Products Grid widget.
 - [Quick Add from Product Grid](https://github.com/barbatjuan/woo-jetwoo-quick-add) - Lets shoppers add products or choose a variation directly from a JetWooBuilder product grid.
 - [Single Product Widget Visibility](https://github.com/UraraReika/jet-engine-single-products-widget-custom-visibility-conditions) - Adds custom visibility conditions for widgets in JetWooBuilder single-product templates.
 
