@@ -17,6 +17,7 @@
 - [Alphabetical Listing Breaks](https://github.com/Crocoblock/jet-engine-break-listing-alphabetically) - Inserts letter headings into a listing that is already sorted alphabetically.
 - [CCT Single Page](https://github.com/Crocoblock/jet-engine-cct-single-page) - Creates individual URLs and pages for custom content type items using a Listing Item template.
 - [Components Shortcode](https://github.com/Crocoblock/jet-engine-components-shortcode) - Renders a JetEngine component wherever WordPress shortcodes are supported.
+- [Data Stores Cleanup](https://github.com/Crocoblock/jet-engine-data-stores-clear-posts-on-delete) - Removes trashed or deleted posts from JetEngine user-meta data stores.
 - [JetEngine Repeater Field Values](https://github.com/rtpHarry/jet-engine-repeater-values) - Exposes repeater values as Elementor dynamic tags for text, images, and galleries.
 - [Listing as Filter](https://github.com/Crocoblock/jet-engine-listing-as-filter) - Turns items in one listing into visual filters for another listing using JetSmartFilters.
 - [Query Builder for Elementor Pro Loop](https://github.com/MjHead/jet-engine-query-builder-for-epro-loop) - Uses JetEngine posts queries and post-based relations queries as the source for an Elementor Pro Loop Grid.
