@@ -51,6 +51,7 @@
 - [Etch Query Loop Bridge](https://github.com/branislavbudzak/jsf-query-builder-etch-bridge) - Connects the Etch Query Loop block to JetSmartFilters and JetEngine Query Builder.
 - [Nested Listing Pagination Fix](https://github.com/rtpHarry/runthings-jetengine-nested-listing-pagination-fix) - Restores the outer listing's pagination when nested JetEngine queries overwrite it in JetSmartFilters Mixed mode.
 - [Post Type and Author Filters](https://github.com/MjHead/jet-smart-filters-post-type-and-author) - Filters listings by post type slug or author ID.
+- [Search by Post ID](https://github.com/MjHead/jet-smart-filters-search-by-id) - Lets visitors find a post by entering its numeric ID into a Search filter.
 
 ## JetFormBuilder
 
