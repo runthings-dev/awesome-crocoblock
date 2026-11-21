@@ -16,6 +16,7 @@
 - [JetEngine Repeater Field Values](https://github.com/rtpHarry/jet-engine-repeater-values) - Exposes repeater values as Elementor dynamic tags for text, images, and galleries.
 - [Listing as Filter](https://github.com/Crocoblock/jet-engine-listing-as-filter) - Turns items in one listing into visual filters for another listing using JetSmartFilters.
 - [Query Builder for Elementor Pro Loop](https://github.com/MjHead/jet-engine-query-builder-for-epro-loop) - Uses JetEngine posts queries and post-based relations queries as the source for an Elementor Pro Loop Grid.
+- [WooCommerce Purchase Visibility](https://github.com/rtpHarry/jet-engine-dynamic-visibility-woo-user-purchased) - Shows or hides content based on whether the current user bought a specified WooCommerce product.
 
 ## JetSmartFilters
 
